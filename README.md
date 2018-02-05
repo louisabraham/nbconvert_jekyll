@@ -21,14 +21,12 @@ manage a blog with Jekyll (for example on Github pages).
     Google Analytics that is activated if you define `google_analytics`
     in `_config.yml` (it works like that in the Github Themes).
 
-    Installation
-    ------------
+Installation
+------------
 
-    `git clone https://github.com/louisabraham/nbconvert_jekyll`
+    pip install --upgrade git+https://github.com/louisabraham/nbconvert_jekyll
 
-    `pip install --upgrade nbconvert_jekyll`
+How to use
+----------
 
-    How to use
-    ----------
-
-    `jupyter nbconvert file.ipynb --to jekyll`
+    jupyter nbconvert file.ipynb --to jekyll
