@@ -1,3 +1,6 @@
+**Note**: I wrote this code a long time ago and have not used it for years. <https://github.com/klane/jekyllnb> is probably better in 2023.
+
+
 nbconvert\_jekyll
 =================
 
